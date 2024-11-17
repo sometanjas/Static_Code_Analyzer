@@ -1,0 +1,26 @@
+type: edu
+files:
+  - name: analyzer/code_analyzer.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/multiple_long_lines.py
+    visible: false
+    learner_created: false
+  - name: test/single_line_valid_example.py
+    visible: false
+    learner_created: false
+  - name: test/single_long_line_example.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9903#comment
+status: Solved
+record: 2
